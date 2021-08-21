@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\CoffeeMaker\CoffeeMaker\bin\Debug\netcoreapp3.1\CoffeeMaker.exe
+C:\Users\ASUS\source\repos\CoffeeMaker\CoffeeMaker\bin\Debug\netcoreapp3.1\CoffeeMaker.deps.json
+C:\Users\ASUS\source\repos\CoffeeMaker\CoffeeMaker\bin\Debug\netcoreapp3.1\CoffeeMaker.runtimeconfig.json
+C:\Users\ASUS\source\repos\CoffeeMaker\CoffeeMaker\bin\Debug\netcoreapp3.1\CoffeeMaker.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\CoffeeMaker\CoffeeMaker\bin\Debug\netcoreapp3.1\CoffeeMaker.dll
+C:\Users\ASUS\source\repos\CoffeeMaker\CoffeeMaker\bin\Debug\netcoreapp3.1\CoffeeMaker.pdb
+C:\Users\ASUS\source\repos\CoffeeMaker\CoffeeMaker\obj\Debug\netcoreapp3.1\CoffeeMaker.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CoffeeMaker\CoffeeMaker\obj\Debug\netcoreapp3.1\CoffeeMaker.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CoffeeMaker\CoffeeMaker\obj\Debug\netcoreapp3.1\CoffeeMaker.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CoffeeMaker\CoffeeMaker\obj\Debug\netcoreapp3.1\CoffeeMaker.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CoffeeMaker\CoffeeMaker\obj\Debug\netcoreapp3.1\CoffeeMaker.dll
+C:\Users\ASUS\source\repos\CoffeeMaker\CoffeeMaker\obj\Debug\netcoreapp3.1\CoffeeMaker.pdb
+C:\Users\ASUS\source\repos\CoffeeMaker\CoffeeMaker\obj\Debug\netcoreapp3.1\CoffeeMaker.genruntimeconfig.cache
